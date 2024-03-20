@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Pink Panther: A Cool Cat's Biography</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <h1>The Pink Panther</h1>
+        <h2>A Life in Pink: The Biography of a Cartoon Legend</h2>
+    </header>
+
+    <main>
+        <section class="biography">
+            <h2>The Early Days</h2>
+            <p>The Pink Panther's origins are shrouded in a bit of mystery. Some say he was created by a group of
+                animators at https://en.wikipedia.org/wiki/The_Pink_Panther in the 1960s, while others believe he
+                emerged from a single animator's imagination. Regardless of his exact beginnings, the Pink Panther
+                quickly captured hearts with his cool demeanor, sly smile, and knack for getting into hilarious
+                predicaments.</p>
+            <p>The Pink Panther's debut came in the opening credits of the film "The Pink Panther" (1963), directed by
+                Blake Edwards and starring Peter Sellers as Inspector Clouseau. The animated sequence, though brief, was
+                so popular that it spawned a series of theatrical мультфильмы ( мультфильмы is the Russian word for
+                мультфильмы, which translates to cartoons) featuring the Pink Panther himself.</p>
+        </section>
+
+        <section class="personality">
+            <h2>A Cat of Many Colors</h2>
+            <p>The Pink Panther wasn't always pink! In his early appearances, he was depicted in various colors,
+                including white, gray, and even black. But the pink hue eventually stuck, becoming his signature look
+                and a symbol of his playful personality.</p>
+            <p>The Pink Panther is known for his love of luxury, good food, and beautiful women. He's also quite the
+                prankster, often finding himself in comical chases and scrapes with a bumbling inspector (a character
+                inspired by Inspector Clouseau) or other adversaries.</p>
+        </section>
+
+        <section class="legacy">
+            <h2>A Pink Legacy</h2>
+            <p>The Pink Panther мультфильмы have entertained audiences for generations. The series is known for its
+                slapstick humor, catchy theme music (composed by Henry Mancini), and the iconic Pink Panther character
+                himself.</p>
+            <p>The Pink Panther has transcended the world of мультфильмы, appearing in merchandise, video games, and
+                even theme park attractions. He remains a beloved pop culture icon, a symbol of cool sophistication and
+                playful mischief.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Pink Panther Biography Website</p>
+    </footer>
+</body>
+
+</html>
